@@ -1,10 +1,14 @@
 ## Hello! I am Gilberto Carvalho🖐️
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](''''')
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCbsxkfPljySydN2PE8BcBAQ)
+[![Linkdin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilberto-neto-244ab9189/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gilberto_carvalho21/)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitter.com/GillCar21)
 
-![Gilberto Carvalho status](https://github-readme-stats.vercel.app/api?username=GilCar21&show_icons=true&theme=dracula&count_private=true)
+<div aline-itens="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GilCar21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilCar21&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ## Tecnologias que eu uso no meu dia
 
@@ -17,4 +21,4 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+Apaixonado por tecnologia, buscando conhecimento para mudar e evoluir, trilhando o caminha da web para se tornar um bom proficional Full Stack.
