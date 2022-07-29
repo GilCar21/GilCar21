@@ -1,9 +1,9 @@
 ## Hello! I am Gilberto Carvalho🖐️
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCbsxkfPljySydN2PE8BcBAQ)
-[![Linkdin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilberto-neto-244ab9189/)
+[![Linkdin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilbertojcneto/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gilberto_carvalho21/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitter.com/GillCar21)
+[![Portfolio](	https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://gilberto-portifolio.vercel.app/)
 
 <div aline-itens="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GilCar21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
